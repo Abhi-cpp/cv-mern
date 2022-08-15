@@ -1,0 +1,122 @@
+.card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px #ccc;
+  margin: 50px 50px;
+  padding: 20px;
+}
+.Page1 {
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 50px auto;
+}
+#linkdin:hover {
+  color: #d9ac92;
+  /* transform: scale(1.1); */
+}
+.unrated{
+  color: #000000;
+}
+.archivement{
+  margin: auto;
+}
+.footer-link {
+  margin: auto;
+  margin: 10px 7%;
+  /* transform: scale(1.1); */
+}
+.footer-link > img {
+  color: #2cd684;
+  transform: scale(1.1);
+}
+#links {
+  width: 100%;
+  text-align: center;
+  position: fixed;
+  bottom: 70px;
+  margin: 10px 0px;
+  /* background-color: #40d0bd; */
+}
+#footer {
+  background-color: #333;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 70px;
+}
+i {
+  padding: auto;
+  margin-right: 5px;
+}
+h3 {
+  justify-content: center;
+  padding: auto;
+}
+#paragraph {
+  padding: 5px;
+}
+#aboutme a{
+  color: #000000;
+  text-decoration: none;
+}
+#aboutme li{
+  font-size: 1.4rem;
+}
+#link > a :hover{
+  transform: scale(1.5);
+}
+#aboutme {
+  justify-content: center;
+  margin: auto;
+  margin-top: 50px;
+  box-sizing: content-box;
+}
+#bio {
+  text-align: center;
+}
+.contact-element{
+  margin: auto;
+  margin-top: 50px;
+  box-sizing: content-box;
+}
+#contact{
+  margin-top: 100px;
+  text-align: center;
+  width: 20%;
+}
+#centre {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  margin-top: 50px;
+}
+h1 {
+  color: #40d0bd;
+  margin-top: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+}
+h2 {
+  color: #24dfc6;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #40d0bd;
+}
+body {
+  background-color: #f7ffff;
+  margin: 0;
+  font-family: "Merriweather", serif;
+}
+#icon {
+  margin-right: 10px;
+}
+
+/* */
